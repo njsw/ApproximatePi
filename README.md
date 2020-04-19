@@ -10,4 +10,4 @@ The algorithm proceeds to draw a random point and plot it within the square. The
 
 <img src="Equation.gif" />
 
-where 4 is the sampling area, c_in is the number of points that fall inside the unit circle, and c_out is the number of points that fall outside the unit circle.
+where ***4*** is the sampling area (2x2 square), ***c_in*** is the number of points that fall inside the unit circle, and ***c_out*** is the number of points that fall outside the unit circle.
