@@ -8,6 +8,6 @@ The approximation algorithm is based on Monte Carlo, which randomly selects a po
 
 The algorithm proceeds to draw a random point and plot it within the square. The standard distance formula is employed to determine whether the selected point is within the unit circle. After sufficiently large sampling the value of pi can be approximated to reasonable precision using the following formula:
 
-<img src="/media/Equation.gif" />
+<img src="Equation.gif" />
 
 where 4 is the sampling area, c_in is the number of points that fall inside the unit circle, and c_out is the number of points that fall outside the unit circle.
